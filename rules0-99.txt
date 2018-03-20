@@ -1,0 +1,1100 @@
+record disableRule0
+parse_config(true);
+print_r([filter][rule][0][disabled] = true);
+write_config();
+stoprecording
+record enableRule0
+parse_config(true);
+print_r([filter][rule][0][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule1
+parse_config(true);
+print_r([filter][rule][1][disabled] = true);
+write_config();
+stoprecording
+record enableRule1
+parse_config(true);
+print_r([filter][rule][1][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule2
+parse_config(true);
+print_r([filter][rule][2][disabled] = true);
+write_config();
+stoprecording
+record enableRule2
+parse_config(true);
+print_r([filter][rule][2][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule3
+parse_config(true);
+print_r([filter][rule][3][disabled] = true);
+write_config();
+stoprecording
+record enableRule3
+parse_config(true);
+print_r([filter][rule][3][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule4
+parse_config(true);
+print_r([filter][rule][4][disabled] = true);
+write_config();
+stoprecording
+record enableRule4
+parse_config(true);
+print_r([filter][rule][4][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule5
+parse_config(true);
+print_r([filter][rule][5][disabled] = true);
+write_config();
+stoprecording
+record enableRule5
+parse_config(true);
+print_r([filter][rule][5][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule6
+parse_config(true);
+print_r([filter][rule][6][disabled] = true);
+write_config();
+stoprecording
+record enableRule6
+parse_config(true);
+print_r([filter][rule][6][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule7
+parse_config(true);
+print_r([filter][rule][7][disabled] = true);
+write_config();
+stoprecording
+record enableRule7
+parse_config(true);
+print_r([filter][rule][7][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule8
+parse_config(true);
+print_r([filter][rule][8][disabled] = true);
+write_config();
+stoprecording
+record enableRule8
+parse_config(true);
+print_r([filter][rule][8][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule9
+parse_config(true);
+print_r([filter][rule][9][disabled] = true);
+write_config();
+stoprecording
+record enableRule9
+parse_config(true);
+print_r([filter][rule][9][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule10
+parse_config(true);
+print_r([filter][rule][10][disabled] = true);
+write_config();
+stoprecording
+record enableRule10
+parse_config(true);
+print_r([filter][rule][10][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule11
+parse_config(true);
+print_r([filter][rule][11][disabled] = true);
+write_config();
+stoprecording
+record enableRule11
+parse_config(true);
+print_r([filter][rule][11][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule12
+parse_config(true);
+print_r([filter][rule][12][disabled] = true);
+write_config();
+stoprecording
+record enableRule12
+parse_config(true);
+print_r([filter][rule][12][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule13
+parse_config(true);
+print_r([filter][rule][13][disabled] = true);
+write_config();
+stoprecording
+record enableRule13
+parse_config(true);
+print_r([filter][rule][13][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule14
+parse_config(true);
+print_r([filter][rule][14][disabled] = true);
+write_config();
+stoprecording
+record enableRule14
+parse_config(true);
+print_r([filter][rule][14][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule15
+parse_config(true);
+print_r([filter][rule][15][disabled] = true);
+write_config();
+stoprecording
+record enableRule15
+parse_config(true);
+print_r([filter][rule][15][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule16
+parse_config(true);
+print_r([filter][rule][16][disabled] = true);
+write_config();
+stoprecording
+record enableRule16
+parse_config(true);
+print_r([filter][rule][16][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule17
+parse_config(true);
+print_r([filter][rule][17][disabled] = true);
+write_config();
+stoprecording
+record enableRule17
+parse_config(true);
+print_r([filter][rule][17][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule18
+parse_config(true);
+print_r([filter][rule][18][disabled] = true);
+write_config();
+stoprecording
+record enableRule18
+parse_config(true);
+print_r([filter][rule][18][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule19
+parse_config(true);
+print_r([filter][rule][19][disabled] = true);
+write_config();
+stoprecording
+record enableRule19
+parse_config(true);
+print_r([filter][rule][19][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule20
+parse_config(true);
+print_r([filter][rule][20][disabled] = true);
+write_config();
+stoprecording
+record enableRule20
+parse_config(true);
+print_r([filter][rule][20][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule21
+parse_config(true);
+print_r([filter][rule][21][disabled] = true);
+write_config();
+stoprecording
+record enableRule21
+parse_config(true);
+print_r([filter][rule][21][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule22
+parse_config(true);
+print_r([filter][rule][22][disabled] = true);
+write_config();
+stoprecording
+record enableRule22
+parse_config(true);
+print_r([filter][rule][22][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule23
+parse_config(true);
+print_r([filter][rule][23][disabled] = true);
+write_config();
+stoprecording
+record enableRule23
+parse_config(true);
+print_r([filter][rule][23][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule24
+parse_config(true);
+print_r([filter][rule][24][disabled] = true);
+write_config();
+stoprecording
+record enableRule24
+parse_config(true);
+print_r([filter][rule][24][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule25
+parse_config(true);
+print_r([filter][rule][25][disabled] = true);
+write_config();
+stoprecording
+record enableRule25
+parse_config(true);
+print_r([filter][rule][25][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule26
+parse_config(true);
+print_r([filter][rule][26][disabled] = true);
+write_config();
+stoprecording
+record enableRule26
+parse_config(true);
+print_r([filter][rule][26][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule27
+parse_config(true);
+print_r([filter][rule][27][disabled] = true);
+write_config();
+stoprecording
+record enableRule27
+parse_config(true);
+print_r([filter][rule][27][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule28
+parse_config(true);
+print_r([filter][rule][28][disabled] = true);
+write_config();
+stoprecording
+record enableRule28
+parse_config(true);
+print_r([filter][rule][28][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule29
+parse_config(true);
+print_r([filter][rule][29][disabled] = true);
+write_config();
+stoprecording
+record enableRule29
+parse_config(true);
+print_r([filter][rule][29][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule30
+parse_config(true);
+print_r([filter][rule][30][disabled] = true);
+write_config();
+stoprecording
+record enableRule30
+parse_config(true);
+print_r([filter][rule][30][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule31
+parse_config(true);
+print_r([filter][rule][31][disabled] = true);
+write_config();
+stoprecording
+record enableRule31
+parse_config(true);
+print_r([filter][rule][31][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule32
+parse_config(true);
+print_r([filter][rule][32][disabled] = true);
+write_config();
+stoprecording
+record enableRule32
+parse_config(true);
+print_r([filter][rule][32][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule33
+parse_config(true);
+print_r([filter][rule][33][disabled] = true);
+write_config();
+stoprecording
+record enableRule33
+parse_config(true);
+print_r([filter][rule][33][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule34
+parse_config(true);
+print_r([filter][rule][34][disabled] = true);
+write_config();
+stoprecording
+record enableRule34
+parse_config(true);
+print_r([filter][rule][34][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule35
+parse_config(true);
+print_r([filter][rule][35][disabled] = true);
+write_config();
+stoprecording
+record enableRule35
+parse_config(true);
+print_r([filter][rule][35][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule36
+parse_config(true);
+print_r([filter][rule][36][disabled] = true);
+write_config();
+stoprecording
+record enableRule36
+parse_config(true);
+print_r([filter][rule][36][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule37
+parse_config(true);
+print_r([filter][rule][37][disabled] = true);
+write_config();
+stoprecording
+record enableRule37
+parse_config(true);
+print_r([filter][rule][37][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule38
+parse_config(true);
+print_r([filter][rule][38][disabled] = true);
+write_config();
+stoprecording
+record enableRule38
+parse_config(true);
+print_r([filter][rule][38][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule39
+parse_config(true);
+print_r([filter][rule][39][disabled] = true);
+write_config();
+stoprecording
+record enableRule39
+parse_config(true);
+print_r([filter][rule][39][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule40
+parse_config(true);
+print_r([filter][rule][40][disabled] = true);
+write_config();
+stoprecording
+record enableRule40
+parse_config(true);
+print_r([filter][rule][40][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule41
+parse_config(true);
+print_r([filter][rule][41][disabled] = true);
+write_config();
+stoprecording
+record enableRule41
+parse_config(true);
+print_r([filter][rule][41][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule42
+parse_config(true);
+print_r([filter][rule][42][disabled] = true);
+write_config();
+stoprecording
+record enableRule42
+parse_config(true);
+print_r([filter][rule][42][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule43
+parse_config(true);
+print_r([filter][rule][43][disabled] = true);
+write_config();
+stoprecording
+record enableRule43
+parse_config(true);
+print_r([filter][rule][43][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule44
+parse_config(true);
+print_r([filter][rule][44][disabled] = true);
+write_config();
+stoprecording
+record enableRule44
+parse_config(true);
+print_r([filter][rule][44][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule45
+parse_config(true);
+print_r([filter][rule][45][disabled] = true);
+write_config();
+stoprecording
+record enableRule45
+parse_config(true);
+print_r([filter][rule][45][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule46
+parse_config(true);
+print_r([filter][rule][46][disabled] = true);
+write_config();
+stoprecording
+record enableRule46
+parse_config(true);
+print_r([filter][rule][46][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule47
+parse_config(true);
+print_r([filter][rule][47][disabled] = true);
+write_config();
+stoprecording
+record enableRule47
+parse_config(true);
+print_r([filter][rule][47][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule48
+parse_config(true);
+print_r([filter][rule][48][disabled] = true);
+write_config();
+stoprecording
+record enableRule48
+parse_config(true);
+print_r([filter][rule][48][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule49
+parse_config(true);
+print_r([filter][rule][49][disabled] = true);
+write_config();
+stoprecording
+record enableRule49
+parse_config(true);
+print_r([filter][rule][49][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule50
+parse_config(true);
+print_r([filter][rule][50][disabled] = true);
+write_config();
+stoprecording
+record enableRule50
+parse_config(true);
+print_r([filter][rule][50][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule51
+parse_config(true);
+print_r([filter][rule][51][disabled] = true);
+write_config();
+stoprecording
+record enableRule51
+parse_config(true);
+print_r([filter][rule][51][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule52
+parse_config(true);
+print_r([filter][rule][52][disabled] = true);
+write_config();
+stoprecording
+record enableRule52
+parse_config(true);
+print_r([filter][rule][52][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule53
+parse_config(true);
+print_r([filter][rule][53][disabled] = true);
+write_config();
+stoprecording
+record enableRule53
+parse_config(true);
+print_r([filter][rule][53][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule54
+parse_config(true);
+print_r([filter][rule][54][disabled] = true);
+write_config();
+stoprecording
+record enableRule54
+parse_config(true);
+print_r([filter][rule][54][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule55
+parse_config(true);
+print_r([filter][rule][55][disabled] = true);
+write_config();
+stoprecording
+record enableRule55
+parse_config(true);
+print_r([filter][rule][55][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule56
+parse_config(true);
+print_r([filter][rule][56][disabled] = true);
+write_config();
+stoprecording
+record enableRule56
+parse_config(true);
+print_r([filter][rule][56][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule57
+parse_config(true);
+print_r([filter][rule][57][disabled] = true);
+write_config();
+stoprecording
+record enableRule57
+parse_config(true);
+print_r([filter][rule][57][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule58
+parse_config(true);
+print_r([filter][rule][58][disabled] = true);
+write_config();
+stoprecording
+record enableRule58
+parse_config(true);
+print_r([filter][rule][58][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule59
+parse_config(true);
+print_r([filter][rule][59][disabled] = true);
+write_config();
+stoprecording
+record enableRule59
+parse_config(true);
+print_r([filter][rule][59][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule60
+parse_config(true);
+print_r([filter][rule][60][disabled] = true);
+write_config();
+stoprecording
+record enableRule60
+parse_config(true);
+print_r([filter][rule][60][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule61
+parse_config(true);
+print_r([filter][rule][61][disabled] = true);
+write_config();
+stoprecording
+record enableRule61
+parse_config(true);
+print_r([filter][rule][61][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule62
+parse_config(true);
+print_r([filter][rule][62][disabled] = true);
+write_config();
+stoprecording
+record enableRule62
+parse_config(true);
+print_r([filter][rule][62][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule63
+parse_config(true);
+print_r([filter][rule][63][disabled] = true);
+write_config();
+stoprecording
+record enableRule63
+parse_config(true);
+print_r([filter][rule][63][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule64
+parse_config(true);
+print_r([filter][rule][64][disabled] = true);
+write_config();
+stoprecording
+record enableRule64
+parse_config(true);
+print_r([filter][rule][64][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule65
+parse_config(true);
+print_r([filter][rule][65][disabled] = true);
+write_config();
+stoprecording
+record enableRule65
+parse_config(true);
+print_r([filter][rule][65][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule66
+parse_config(true);
+print_r([filter][rule][66][disabled] = true);
+write_config();
+stoprecording
+record enableRule66
+parse_config(true);
+print_r([filter][rule][66][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule67
+parse_config(true);
+print_r([filter][rule][67][disabled] = true);
+write_config();
+stoprecording
+record enableRule67
+parse_config(true);
+print_r([filter][rule][67][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule68
+parse_config(true);
+print_r([filter][rule][68][disabled] = true);
+write_config();
+stoprecording
+record enableRule68
+parse_config(true);
+print_r([filter][rule][68][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule69
+parse_config(true);
+print_r([filter][rule][69][disabled] = true);
+write_config();
+stoprecording
+record enableRule69
+parse_config(true);
+print_r([filter][rule][69][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule70
+parse_config(true);
+print_r([filter][rule][70][disabled] = true);
+write_config();
+stoprecording
+record enableRule70
+parse_config(true);
+print_r([filter][rule][70][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule71
+parse_config(true);
+print_r([filter][rule][71][disabled] = true);
+write_config();
+stoprecording
+record enableRule71
+parse_config(true);
+print_r([filter][rule][71][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule72
+parse_config(true);
+print_r([filter][rule][72][disabled] = true);
+write_config();
+stoprecording
+record enableRule72
+parse_config(true);
+print_r([filter][rule][72][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule73
+parse_config(true);
+print_r([filter][rule][73][disabled] = true);
+write_config();
+stoprecording
+record enableRule73
+parse_config(true);
+print_r([filter][rule][73][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule74
+parse_config(true);
+print_r([filter][rule][74][disabled] = true);
+write_config();
+stoprecording
+record enableRule74
+parse_config(true);
+print_r([filter][rule][74][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule75
+parse_config(true);
+print_r([filter][rule][75][disabled] = true);
+write_config();
+stoprecording
+record enableRule75
+parse_config(true);
+print_r([filter][rule][75][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule76
+parse_config(true);
+print_r([filter][rule][76][disabled] = true);
+write_config();
+stoprecording
+record enableRule76
+parse_config(true);
+print_r([filter][rule][76][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule77
+parse_config(true);
+print_r([filter][rule][77][disabled] = true);
+write_config();
+stoprecording
+record enableRule77
+parse_config(true);
+print_r([filter][rule][77][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule78
+parse_config(true);
+print_r([filter][rule][78][disabled] = true);
+write_config();
+stoprecording
+record enableRule78
+parse_config(true);
+print_r([filter][rule][78][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule79
+parse_config(true);
+print_r([filter][rule][79][disabled] = true);
+write_config();
+stoprecording
+record enableRule79
+parse_config(true);
+print_r([filter][rule][79][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule80
+parse_config(true);
+print_r([filter][rule][80][disabled] = true);
+write_config();
+stoprecording
+record enableRule80
+parse_config(true);
+print_r([filter][rule][80][disabled] = false);
+write_config();
+stoprecording
+
+
+record disableRule81
+parse_config(true);
+print_r([filter][rule][81][disabled] = true);
+write_config();
+stoprecording
+record enableRule81
+parse_config(true);
+print_r([filter][rule][81][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule82
+parse_config(true);
+print_r([filter][rule][82][disabled] = true);
+write_config();
+stoprecording
+record enableRule82
+parse_config(true);
+print_r([filter][rule][82][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule83
+parse_config(true);
+print_r([filter][rule][83][disabled] = true);
+write_config();
+stoprecording
+record enableRule83
+parse_config(true);
+print_r([filter][rule][83][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule84
+parse_config(true);
+print_r([filter][rule][84][disabled] = true);
+write_config();
+stoprecording
+record enableRule84
+parse_config(true);
+print_r([filter][rule][84][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule85
+parse_config(true);
+print_r([filter][rule][85][disabled] = true);
+write_config();
+stoprecording
+record enableRule85
+parse_config(true);
+print_r([filter][rule][85][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule86
+parse_config(true);
+print_r([filter][rule][86][disabled] = true);
+write_config();
+stoprecording
+record enableRule86
+parse_config(true);
+print_r([filter][rule][86][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule87
+parse_config(true);
+print_r([filter][rule][87][disabled] = true);
+write_config();
+stoprecording
+record enableRule87
+parse_config(true);
+print_r([filter][rule][87][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule88
+parse_config(true);
+print_r([filter][rule][88][disabled] = true);
+write_config();
+stoprecording
+record enableRule88
+parse_config(true);
+print_r([filter][rule][88][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule89
+parse_config(true);
+print_r([filter][rule][89][disabled] = true);
+write_config();
+stoprecording
+record enableRule89
+parse_config(true);
+print_r([filter][rule][89][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule90
+parse_config(true);
+print_r([filter][rule][90][disabled] = true);
+write_config();
+stoprecording
+record enableRule90
+parse_config(true);
+print_r([filter][rule][90][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule91
+parse_config(true);
+print_r([filter][rule][91][disabled] = true);
+write_config();
+stoprecording
+record enableRule91
+parse_config(true);
+print_r([filter][rule][91][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule92
+parse_config(true);
+print_r([filter][rule][92][disabled] = true);
+write_config();
+stoprecording
+record enableRule92
+parse_config(true);
+print_r([filter][rule][92][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule93
+parse_config(true);
+print_r([filter][rule][93][disabled] = true);
+write_config();
+stoprecording
+record enableRule93
+parse_config(true);
+print_r([filter][rule][93][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule94
+parse_config(true);
+print_r([filter][rule][94][disabled] = true);
+write_config();
+stoprecording
+record enableRule94
+parse_config(true);
+print_r([filter][rule][94][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule95
+parse_config(true);
+print_r([filter][rule][95][disabled] = true);
+write_config();
+stoprecording
+record enableRule95
+parse_config(true);
+print_r([filter][rule][95][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule96
+parse_config(true);
+print_r([filter][rule][96][disabled] = true);
+write_config();
+stoprecording
+record enableRule96
+parse_config(true);
+print_r([filter][rule][96][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule97
+parse_config(true);
+print_r([filter][rule][97][disabled] = true);
+write_config();
+stoprecording
+record enableRule97
+parse_config(true);
+print_r([filter][rule][97][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule98
+parse_config(true);
+print_r([filter][rule][98][disabled] = true);
+write_config();
+stoprecording
+record enableRule98
+parse_config(true);
+print_r([filter][rule][98][disabled] = false);
+write_config();
+stoprecording
+
+record disableRule99
+parse_config(true);
+print_r([filter][rule][99][disabled] = true);
+write_config();
+stoprecording
+record enableRule99
+parse_config(true);
+print_r([filter][rule][99][disabled] = false);
+write_config();
+stoprecording
